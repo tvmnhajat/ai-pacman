@@ -1,6 +1,4 @@
 
-<h1 align='center'>PROJECT 1 - SEARCH (PACMAN)</h1>
-
 ## Problem Description
 You are given a file which describe Pac-man World. Propose or apply learned algorithms to help Pac-Man to find foods without dying by monsters.
 
@@ -21,5 +19,3 @@ You may need to run your algorithm on many different graphs to make a comprehens
 - The length of the discovered paths
 
 Specially, you should generate some difficult maps such as Pac-man is stay among two monster or wall is around in all side. 
-
-[More detail](https://github.com/kieuconghau/ai-pacman/blob/master/Project01%20-%20Searching.pdf)
